@@ -73,4 +73,9 @@ body {
   cursor: grab;
   cursor: -webkit-grab;
   z-index: 10;
+  background-color: white;
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+  border: 1px solid #777;
 }
